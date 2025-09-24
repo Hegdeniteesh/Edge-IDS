@@ -1,0 +1,1 @@
+{"timestamp": "2025-09-24T10:56:42.516347", "src_ip": "192.168.100.225", "dst_ip": "10.0.0.172", "sport": 32597, "dport": 443, "attack_type": "DoS", "is_intrusion": true, "action": "Forward (Alert Only)", "route": ["Internet", "Router", "Firewall", "IoT Hub", "Device 3"]}
